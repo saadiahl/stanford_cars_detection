@@ -7,3 +7,4 @@ streamlit==1.40.2
 torch==2.2.2
 tqdm==4.66.5
 ultralytics==8.3.97
+opencv-python

@@ -1,1 +1,10 @@
+/stanford_cars
+/runs/detect
+/check_bb.ipynb
+/data
+/train6.zip
+/yolov5su.pt
+/.venv
+/yolo11n.pt
 /.DS_Store
+/data_split_convert.py
