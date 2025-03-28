@@ -10,7 +10,7 @@ from ultralytics import YOLO
 @st.cache_resource()
 def load_model():
     model = YOLO(
-        "stanford_cars_detection/runs/train6/weights/best.pt"
+        "runs/train6/weights/best.pt"
     )  # Ensure 'best.pt' is in the project directory
     return model
 
