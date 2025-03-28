@@ -1,10 +1,10 @@
 numpy
-opencv-python
 pandas
 Pillow
-scikit_learn
+scikit-learn
 streamlit
 torch
 tqdm
 ultralytics
 opencv-python
+cv2
