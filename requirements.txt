@@ -6,5 +6,4 @@ streamlit
 torch
 tqdm
 ultralytics
-opencv-python
-cv2
+opencv-python-headless
