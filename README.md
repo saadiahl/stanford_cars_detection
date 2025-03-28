@@ -14,7 +14,8 @@ This repository provides a complete pipeline for converting the **Stanford Cars 
 - Organizes images and labels according to the **Ultralytics YOLO dataset structure**.
 - Generates a **stanford_cars.yaml** configuration file for training YOLO.
 - Supports **training YOLOv5 on Mac M2 (MPS support)**.
-
+## Link to Streamlit Cloud 
+[Streamlit Cloud App](https://stanfordcarsdetection-saadiahl.streamlit.app)
 ## 🚀 Installation
 
 ### 1️⃣ Clone the repository
