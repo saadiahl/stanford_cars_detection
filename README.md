@@ -3,7 +3,6 @@
 ![YOLO](https://img.shields.io/badge/YOLOv5-Object%20Detection-green)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Stanford Cars](https://img.shields.io/badge/Dataset-Stanford%20Cars-orange)
-![License](https://img.shields.io/github/license/saadiahl/stanford_cars_detection)
 
 ## 📌 Overview
 
@@ -66,9 +65,6 @@ mAP50-95: 0.9891402017131272(mean Average Precision across multiple IoU threshol
 
 [Ultralytics YOLO Documentation](https://docs.ultralytics.com)
 
-## 📜 License
-
-This project is licensed under the MIT License.
 
 This `README.md` includes:
 - **Project Overview**
@@ -77,7 +73,7 @@ This `README.md` includes:
 - **Usage Instructions**
 - **Training Instructions**
 - **Results Table (TBD)**
-- **References & License**
+- **References**
 
 
 
