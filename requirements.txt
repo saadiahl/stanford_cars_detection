@@ -1,5 +1,5 @@
 numpy
-opencv_python
+opencv-python
 pandas
 Pillow
 scikit_learn
